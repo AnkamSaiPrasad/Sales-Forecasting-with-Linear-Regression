@@ -17,7 +17,6 @@ This project also demonstrates how to use **Linear Regression** to forecast futu
 
 ## Sample Outputs
 
-Included in `Output_Screenshots.pdf`:
 - Training summary and regression line
 - Forecasted sales table
 - Future sales trend graph
@@ -36,7 +35,7 @@ Included in `Output_Screenshots.pdf`:
    
    `git clone https://github.com/AnkamSaiPrasad/sales-forecasting-linear-regression.git
    cd sales-forecasting-linear-regression`
-   ### OR
+   #### If the above command didn't work
    you can also do this by placing the `Sourcecode.ipynb` and `sales_data.csv` in same folder.
    
 3. Install required packages:
