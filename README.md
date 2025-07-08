@@ -50,10 +50,7 @@ Included in `Output_Screenshots.pdf`:
 4. Run each cell to see the model training and forecasting in action.
 
 ## Author
-
-Ankam Sai prasad
-
-B.Tech in Data Science
-
-Email: ankamsaiprasad13@gmail.com
+#### Ankam Sai prasad
+#### B.Tech in Data Science
+#### Email: ankamsaiprasad13@gmail.com
 
