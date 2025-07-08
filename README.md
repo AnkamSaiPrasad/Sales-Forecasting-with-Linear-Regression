@@ -30,5 +30,27 @@ Included in `Output_Screenshots.pdf`:
 - CSV for data input
 - PDF for output documentation
 
-## How
+## 🚀 Getting Started
+
+1. Clone the repository:
+   
+   `git clone https://github.com/AnkamSaiPrasad/sales-forecasting-linear-regression.git
+   cd sales-forecasting-linear-regression`
+### OR
+   you can also do this by placing the `Sourcecode.ipynb` and `sales_data.csv` in same folder.
+   
+2. Install required packages:
+
+  `pip install pandas matplotlib scikit-learn jupyter`
+  
+3. Launch the notebook:
+
+  `jupyter notebook Sourcecode.ipynb`
+  
+4. Run each cell to see the model training and forecasting in action.
+
+## Author
+Ankam Sai prasad
+B.Tech in Data Science
+Email: ankamsaiprasad13@gmail.com
 
